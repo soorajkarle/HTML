@@ -1,0 +1,35 @@
+1.	Create a simple html file to demonstrate the use of different basic tags.
+
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>Basic Tags</title>
+</head>
+<body style="background: url('C:/Users/Lenovo/Desktop/aa.jpg')">
+<font face="Times New Roman" size="10" color="grey">Janith Sujathan
+</font><br><p>The list of cold bevarages are</p>
+<ul type="a">
+<li>sprite</li>
+<li>joy</li>
+<li>pepsi</li>
+</ul>
+<hr color="green">
+<p align="left">Left</p>
+<p align="right">Right</p>
+<p align="center">center</p>
+<p align="justify">justified</p>
+<marquee style="font-family:Book Antiqua;color=#00080" bgcolor="cyan"	direction="Right">This text will scroll from left to right</marquee>
+<marquee bgcolor="#00080" style="color: #FFFFFF;font-family: Lucida Sans Unicode" behavior="alternate">Text</marquee>
+<p><b>Bold Text</b><br>
+<i>Italic Text</i><br>
+<u>Underline Text</u><br>
+<strike>strike</strike><br>
+<strong>Strong Text</strong></p>
+<hr>
+<p>2 raised to 4 is 2<sup>4</sup></p>
+<hr>
+<p>chemical formula of water is H<sub>2</sub>0</p><hr>
+</body>
+</html>
+ 
